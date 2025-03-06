@@ -18,6 +18,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=VidhanAgrawa-l&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![Profile Views](https://komarev.com/ghpvc/?username=VidhanAgrawa-l&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/VidhanAgrawa-l?label=Followers&style=flat-square)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
